@@ -1,0 +1,45 @@
+.lbj {
+    width: 80%;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+span {
+    color: darkblue;
+}
+.menu li a {
+    color: darkblue;
+    text-decoration: none;
+    margin-left: 20px;
+}
+header {
+    padding: 25px 0;
+}
+p {
+    font-size: 35px;
+    width: 30%;
+    margin: 450px 50px;
+}
+.box {
+    background-color: darkblue;
+    width: 950px;
+    height: 150px;
+}
+.relative {
+    position: relative;
+    left: 50px;
+    bottom: 450px;
+}
+.absolute {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+}
+.absolute__img {
+    width: 780px;
+    height: 500px;
+}
